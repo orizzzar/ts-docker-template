@@ -1,1 +1,1 @@
-# ts-docker-template
+# ts-parcel-template
